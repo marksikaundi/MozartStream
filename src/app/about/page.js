@@ -5,6 +5,7 @@ export default function page() {
     <div className="max-w-6xl mx-auto space-y-4 p-4">
       <h1 className="text-2xl font-medium text-amber-600">About</h1>
       <p className="">
+        <h3>Platform Overview by Mark Sikaundi</h3>
         <b>Mozart stream</b> is a platform for those who loves watching and
         getting access to early released movies and series. We provide you with
         the best quality of movies and series. 
@@ -26,6 +27,8 @@ export default function page() {
       </p>
 
       <p>Soon we are publishing our documentation you can read more how to get started</p>
+
+      <p><b>Developed & Maintained</b> by☘️ <i>Mark Sikaundi</i></p>
     </div>
   );
 }
